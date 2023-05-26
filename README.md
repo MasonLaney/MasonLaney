@@ -1,4 +1,10 @@
-### Hi there 👋
+Hey there!
+
+I'm Mason, and I'm currently studying at UNC Chapel Hill persuing an M.S. in Computer Science. I graduated from UNC in 2023 with a B.S. in Computer Science, a B.A. in Linguistics, and a Minor in Data Science.
+
+I enjoy A.I. and Machine Learning in all forms, but especially NLP. You can see a handful of school-related projects here, the most notable of which is [Personality-Analysis-of-LMs](https://github.com/MasonLaney/Personality-Analysis-of-LMs), which contains (most) of the code for my undergraduate honors thesis.
+
+Feel free to reach out with any questions or inquiries!
 
 <!--
 **MasonLaney/MasonLaney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
